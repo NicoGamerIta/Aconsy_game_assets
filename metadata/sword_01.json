@@ -1,0 +1,20 @@
+{
+  "name": "Spada di Cristallo",
+  "symbol": "ACNSY",
+  "description": "Un'arma leggendaria forgiata su Solana Devnet",
+  "image": "https://raw.githubusercontent.com/tuo-utente/tuo-repo/main/assets/sword.png",
+  "attributes": [
+    {
+      "trait_type": "item_id",
+      "value": "sword_01"
+    },
+    {
+      "trait_type": "slot",
+      "value": "hand_r"
+    },
+    {
+      "trait_type": "attack_power",
+      "value": 50
+    }
+  ]
+}

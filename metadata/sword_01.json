@@ -5,16 +5,28 @@
   "image": "https://raw.githubusercontent.com/NicoGamerIta/Aconsy_game_assets/main/sword_01.png",
   "attributes": [
     {
-      "trait_type": "item_id",
-      "value": "sword_01"
+      "trait_type": "id",
+      "value": "1"
     },
     {
-      "trait_type": "slot",
-      "value": "hand_r"
-    },
+    "trait_type": "name",
+      "value": "sword"
+    }
+    {
+    "trait_type": "description",
+      "value": "wood sword"
+    }
     {
       "trait_type": "attack_power",
       "value": 50
+    },
+    {
+    "trait_type": "rarity",
+      "value": "common"
+    },
+    {
+    "trait_type": "type",
+      "value": "weapon"
     }
   ]
 }

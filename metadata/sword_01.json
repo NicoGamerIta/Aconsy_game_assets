@@ -11,11 +11,11 @@
     {
     "trait_type": "name",
       "value": "sword"
-    }
+    },
     {
     "trait_type": "description",
       "value": "wood sword"
-    }
+    },
     {
       "trait_type": "attack_power",
       "value": 50

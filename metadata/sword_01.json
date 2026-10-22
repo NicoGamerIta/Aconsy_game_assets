@@ -9,11 +9,11 @@
       "value": "1"
     },
     {
-    "trait_type": "name",
+      "trait_type": "name",
       "value": "sword"
     },
     {
-    "trait_type": "description",
+      "trait_type": "description",
       "value": "wood sword"
     },
     {
@@ -21,11 +21,11 @@
       "value": 50
     },
     {
-    "trait_type": "rarity",
+      "trait_type": "rarity",
       "value": "common"
     },
     {
-    "trait_type": "type",
+      "trait_type": "type",
       "value": "weapon"
     }
   ]

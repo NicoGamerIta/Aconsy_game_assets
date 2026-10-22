@@ -2,7 +2,7 @@
   "name": "Spada di Cristallo",
   "symbol": "ACNSY",
   "description": "Un'arma leggendaria forgiata su Solana Devnet",
-  "image": "https://raw.githubusercontent.com/NicoGamerIta/Aconsy_game_assets/main/metadata/sword_01.png",
+  "image": "https://raw.githubusercontent.com/NicoGamerIta/Aconsy_game_assets/main/sword_01.png",
   "attributes": [
     {
       "trait_type": "id",

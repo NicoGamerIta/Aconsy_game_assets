@@ -2,7 +2,7 @@
   "name": "Armatura maestrale",
   "symbol": "ACNSY",
   "description": "Un'armatura possente e resistente forgiata su Solana Devnet",
-  "image": "https://raw.githubusercontent.com/NicoGamerIta/Aconsy_game_assets/main/sword_01.png",
+  "image": "https://raw.githubusercontent.com/NicoGamerIta/Aconsy_game_assets/main/armor_05.png",
   "attributes": [
     {
       "trait_type": "id",

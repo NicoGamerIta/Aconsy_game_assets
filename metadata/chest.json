@@ -1,0 +1,36 @@
+{
+  "name": "Armatura maestrale",
+  "symbol": "ACNSY",
+  "description": "Un'armatura possente e resistente forgiata su Solana Devnet",
+  "image": "https://raw.githubusercontent.com/NicoGamerIta/Aconsy_game_assets/main/sword_01.png",
+  "attributes": [
+    {
+      "trait_type": "id",
+      "value": "5"
+    },
+    {
+      "trait_type": "name",
+      "value": "chest"
+    },
+    {
+      "trait_type": "description",
+      "value": "iron chest"
+    },
+    {
+      "trait_type": "attack_power",
+      "value": 0
+    },
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "type",
+      "value": "armor"
+    },
+    {
+      "trait_type": "isBroken",
+      "value": "false"
+    }
+  ]
+}

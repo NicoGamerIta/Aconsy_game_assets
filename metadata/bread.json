@@ -1,0 +1,36 @@
+{
+  "name": "Pane",
+  "symbol": "ACNSY",
+  "description": "Del semplice pane da mangiare",
+  "image": "https://raw.githubusercontent.com/NicoGamerIta/Aconsy_game_assets/main/bread_02.png",
+  "attributes": [
+    {
+      "trait_type": "id",
+      "value": "2"
+    },
+    {
+      "trait_type": "name",
+      "value": "bread"
+    },
+    {
+      "trait_type": "description",
+      "value": "simply bread"
+    },
+    {
+      "trait_type": "attack_power",
+      "value": 0
+    },
+    {
+      "trait_type": "rarity",
+      "value": "common"
+    },
+    {
+      "trait_type": "type",
+      "value": "consumable"
+    },
+    {
+      "trait_type": "isBroken",
+      "value": "false"
+    }
+  ]
+}

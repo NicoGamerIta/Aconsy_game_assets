@@ -28,9 +28,5 @@
       "trait_type": "type",
       "value": "weapon"
     },
-    {
-      "trait_type": "isBroken",
-      "value": "false"
-    }
   ]
 }

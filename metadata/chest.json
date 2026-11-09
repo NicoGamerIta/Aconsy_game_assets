@@ -27,10 +27,6 @@
     {
       "trait_type": "type",
       "value": "armor"
-    },
-    {
-      "trait_type": "isBroken",
-      "value": "false"
     }
   ]
 }

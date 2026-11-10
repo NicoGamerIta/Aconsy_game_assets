@@ -1,0 +1,32 @@
+{
+  "name": "Ascia del Tagliagola",
+  "symbol": "AXE",
+  "description": "Un'ascia che punisce i criminali forgiata su Solana Devnet",
+  "image": "https://raw.githubusercontent.com/NicoGamerIta/Aconsy_game_assets/main/axe_03.png",
+  "attributes": [
+    {
+      "trait_type": "id",
+      "value": "3"
+    },
+    {
+      "trait_type": "name",
+      "value": "axe"
+    },
+    {
+      "trait_type": "description",
+      "value": "axe"
+    },
+    {
+      "trait_type": "attack_power",
+      "value": 35
+    },
+    {
+      "trait_type": "rarity",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    }
+  ]
+}
